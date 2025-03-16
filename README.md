@@ -12,7 +12,7 @@ I specialize in **trading indicators, algo trading, and data analysis**. Passion
  🤝 Let's Connect  
 📧 Email: [wkirk.tech@gmail.com](mailto:wkirk.tech@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/weskirk786](https://linkedin.com/in/weskirk786)  
-🐢 YouTube: [https://www.youtube.com/@ZenTurtle786](https://www.youtube.com/@ZenTurtle786)] – Check out my content on trading, tech, and automation.
+🐢 YouTube: [https://www.youtube.com/@ZenTurtle786](https://www.youtube.com/@ZenTurtle786) – Check out my content on trading, tech, and automation.
 
 <!---
 
