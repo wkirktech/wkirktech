@@ -1,8 +1,8 @@
 👋 Hi, I'm Wes Kirk  
 
-🚀 **Trader | Technologist | Data Enthusiast**  
+🚀 Trader | Technologist | Data Enthusiast  
 
-I specialize in Networking, API's, trading indicators, algo trading, and data analysis**. Passionate about leveraging technology to enhance financial markets and automation.  
+I specialize in Networking, API's, trading indicators, algo trading, and data analysis. Passionate about leveraging technology to enhance financial markets and automation.  
 
  💡 What I'm Working On  
 - Developing and refining trading strategies using algorithmic models  
